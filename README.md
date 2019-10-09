@@ -1,4 +1,4 @@
-# RestoreJenkinsFromXML
+# Restore Jenkins Jobs From XML
 
 Script per migrare in maniera automatica dei job di jenkins da un nuovo a un vecchio server.
 Mediante l'uso delle REST API di jenkins è possibile muovere dei job da un vecchio server a un altro.
